@@ -1,2 +1,4 @@
 # JSP-Board
-## JSP, JavaScript(JQuery), Spring, Oracle
+Frontend - JSP, JQuery
+Backend - Spring
+Database - Oracle
