@@ -1,0 +1,12 @@
+table {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table th {
+  width: 200px;
+}
+
+button {
+  margin: 5px;
+}
